@@ -1,7 +1,7 @@
 # fwsjs
 FWS reader JS module.
 
-example JS:
+example:
 
 ```js
 const fwsjs = require('fwsjs');
