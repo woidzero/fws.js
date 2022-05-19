@@ -7,5 +7,3 @@ function compile(file) {
         .replaceAll(/\@(.*)\:[ ]+/gi, '')
         .replaceAll(/[\$+]/g, '"'))
 } 
-
-console.log(compile('test'))
