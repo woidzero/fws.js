@@ -13,12 +13,18 @@ console.log(s)
 ```
 {
     $ "test" : "hello-world",
+    & "data" : [
+       $ "key" : "value"
+    ]
 }
 ```
 
 output:
 ```json
 {
-  "test": "hello-world"
+    "test": "hello-world"
+    "data": {
+        "key": "value"
+    }
 }
 ```
