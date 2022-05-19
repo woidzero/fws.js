@@ -6,7 +6,7 @@ example:
 ```js
 const fwsjs = require('fwsjs');
 
-let s = fwsjs.compile('file.fws');
+let s = fwsjs.read('file.fws');
 console.log(s)
 ```
 
