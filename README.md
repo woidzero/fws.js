@@ -1,7 +1,7 @@
 # fwsjs
 FWS reader JS module.
 
-by @SaziX1337
+by @Sazix1337
 
 
 example:
